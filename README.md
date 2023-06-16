@@ -1,2 +1,2 @@
-# TestDrivenDevelopmentPractice
+# TestDrivenDevelopment
 Practice code for TDD.
